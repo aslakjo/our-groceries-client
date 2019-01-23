@@ -1,6 +1,6 @@
 {
-  "name": "our-groceries-client",
-  "version": "0.1.64-pre",
+  "name": "our-groceries-client-aslakjo",
+  "version": "0.1.66-pre",
   "description": "A client for Our Groceries",
   "main": "our-groceries-client.js",
   "dependencies": {
